@@ -1,0 +1,11 @@
+Project Structure
+
+Components:
+WeatherSearch:
+-Search bar and icon: auto-complete w/ keypress and click event
+-Background image from pintrest
+
+
+
+
+SearchResults:
